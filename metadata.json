@@ -1,0 +1,8 @@
+{
+  "name": "Online Shop Support Chatbot",
+  "description": "AI customer-support assistant for an online shop with FAQ grounding, multi-turn bug report collection, and human handoff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
